@@ -1,6 +1,8 @@
 # AI Food Advisor: Your Personal AI Nutritionist
 
 ## 1. Project Description
+<img width="1213" height="681" alt="image" src="https://github.com/user-attachments/assets/c7600a37-63ed-46cd-bf3e-3bbaa52f61b7" />
+
 Navigating dietary choices with a health condition can be confusing and stressful, often leading to reliance on generic, impersonal advice.  
 The **AI Food Advisor** tackles this challenge head-on, providing an instant, personalized, and data-driven conversational chatbot specifically designed to answer the critical question: **"Can I eat this?"**
 
